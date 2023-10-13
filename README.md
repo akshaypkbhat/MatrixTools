@@ -5,10 +5,10 @@ The Matrix2D library is a powerful toolset for working with 2D matrices. It prov
 The library is coded in C and uses the math library to perform the various subroutines.
 
 M2d_print_mat(double a[3][3])
-  prints matrix
+prints matrix
   
 M2d_copy_mat(double a[3][3],b[3][3])
-  a = b
+a = b
   
 M2d_make_identity(double a[3][3])
   a = I
